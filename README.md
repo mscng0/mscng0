@@ -1,12 +1,8 @@
-- 👋 Hi, I’m @mscng08
-- 👀 I’m interested in playing cricket...
-- 🌱 I’m currently learning BTech 1st Year in AU...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ..
-
-<!---
-mscng0/mscng0 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+Start
+Read Range
+I=1
+Print I
+I=I+2
+If (I<Range)
+go to step 4
+stop
