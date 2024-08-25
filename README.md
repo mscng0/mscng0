@@ -1,8 +1,8 @@
-'Start'
-Read Range
-I=1
-Print I
-I=I+2
-If (I<Range)
+start
+read range
+i=1
+Print i
+i=i+2
+if (i<Range)
 go to step 4
 stop
